@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farhana.
-- 👀 I’m interested in Software Development and Engineering
+- 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently working on strenthening my problem solving and logical thinking skills, doing DSA.
 - Also I have been learning Web Development.
 
